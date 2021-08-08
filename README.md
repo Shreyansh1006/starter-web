@@ -15,4 +15,4 @@ Sample website with plenty of files for demos
 Last paragraph
 
 ### Copyright
-Copyright Added
+Copyright Added 2021
