@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Last paragraph
+Please fork  this repo and then issue pull
 
 ### Copyright
 Copyright Added 2021
