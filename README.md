@@ -18,4 +18,4 @@ Last paragraph
 Please fork  this repo and then issue pull
 
 ### Copyright
-Copyright Added 2021
+Copyright Added 2021. All rights reserved 
