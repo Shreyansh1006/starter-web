@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for example
 mope changes
+Updating emergency fix after stash
 
 ## Introduction
 
